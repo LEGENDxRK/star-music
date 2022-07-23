@@ -168,7 +168,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                         text="•★ᴄʜᴀɴɴᴇʟ★•", url=f"https://t.me/its_star_network"
                     ),
-                    InlineKeyboardButton(text="🥀sᴜᴘᴘᴏʀᴛ🥀", url=f"https://t.me/Best_FriendsFor_Ever")
+                    InlineKeyboardButton(text="🥀sᴜᴘᴘᴏʀᴛ🥀", url=f"https://t.me/NJ_AJ_WORLD")
                  ]   
             ]
         )
@@ -207,7 +207,7 @@ async def play(_, message: Message):
                            InlineKeyboardButton(
                         text="•★ᴄʜᴀɴɴᴇʟ★•", url=f"https://t.me/its_star_network"
                     ),
-                    InlineKeyboardButton(text="•🥀sᴜᴘᴘᴏʀᴛ•🥀", url=f"https://t.me/Best_FriendsFor_Ever"
+                    InlineKeyboardButton(text="•🥀sᴜᴘᴘᴏʀᴛ•🥀", url=f"https://t.me/NJ_AJ_WORLD"
                           ),
                      ]
                 ]
@@ -223,7 +223,7 @@ async def play(_, message: Message):
                         InlineKeyboardButton(
                         text="•★ᴄʜᴀɴɴᴇʟ★•", url=f"https://t.me/its_star_network"
                     ),
-                    InlineKeyboardButton(text="•🥀sᴜᴘᴘᴏʀᴛ•🥀", url=f"https://t.me/Best_FriendsFor_Ever" )
+                    InlineKeyboardButton(text="•🥀sᴜᴘᴘᴏʀᴛ•🥀", url=f"https://t.me/NJ_AJ_WORLD" )
                     ]
                 ]
             )
@@ -273,7 +273,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                         text="•★ᴄʜᴀɴɴᴇʟ★•", url=f"https://t.me/its_star_network"
                     ),
-                    InlineKeyboardButton(text="•🥀sᴜᴘᴘᴏʀᴛ•🥀", url=f"https://t.me/Best_FriendsFor_Ever" )
+                    InlineKeyboardButton(text="•🥀sᴜᴘᴘᴏʀᴛ•🥀", url=f"https://t.me/NJ_AJ_WORLD" )
                 ]
             ]
         )
