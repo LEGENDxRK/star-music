@@ -17,7 +17,7 @@ async def start_(client: Client, message: Message):
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʜᴀɴᴅʟᴇʀs : ( `/ . • $ ^ ~ + * ?` )
 ┏━━━━━━━━━━━━━━┓
 ┣★
-┣★ ᴍᴀᴅᴇ ʙʏ: [𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥](t.me/its_star_boi)
+┣★ ᴍᴀᴅᴇ ʙʏ: [𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥](t.me/Fighter_rkh)
 ┣★
 ┗━━━━━━━━━━━━━━┛
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴀʙᴏᴜᴛ ᴍᴇ ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](t.me/{me}) ʙᴀʙʏ...
@@ -33,14 +33,14 @@ async def start_(client: Client, message: Message):
                         "💔 ᴏᴡɴᴇʀ 💔", url=f"https://t.me/{me}"
                     ),
                     InlineKeyboardButton(
-                        "🍒 sᴜᴘᴘᴏʀᴛ 🍒", url=f"https://t.me/Best_FriendsFor_Ever"
+                        "🍒 sᴜᴘᴘᴏʀᴛ 🍒", url=f"https://t.me/NJ_AJ_WORLD"
                     )
                 ],[
                     InlineKeyboardButton(
                         "🔎 ɪɴʟɪɴᴇ 🔎", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "🤯 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ 🤯", url="https://github.com/Starboihacks369/star-music"
+                        "🤯 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ 🤯", url=f"https://t.me/Fighter_rkh"
                     )]
             ]
        ),
